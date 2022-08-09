@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gsdhami2020
+- 👋 Hi, I’m @gsdhami
 - 👀 I’m interested in emerging technologies in the field of IT & Aerospace.
 - 🌱 I’m currently learning Github.
 - 💞️ I’m looking to collaborate on projects related to Blockchain technology.
